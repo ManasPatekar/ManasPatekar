@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.gif" width="420" alt="Profile Animation" />
+  <img src="./banner.gif" alt="Profile Animation" />
 </p>
+
 # 👋 Hi there, I'm Manas!  
 
 💻 Computer Science Student | 🔐 Cybersecurity Enthusiast | 🌐 Blockchain Explorer | 🎯 Hackathon Player  
