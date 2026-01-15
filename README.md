@@ -1,67 +1,83 @@
+<div align="center">
+  <img src="./banner.gif" alt="Profile Animation" width="100%" style="border-radius: 10px;" />
+</div>
+
+<div align="center">
+  <h1 align="center">👨‍💻 Hi there, I'm <a href="https://github.com/ManasPatekar">Manas</a>!</h1>
+  <h3 align="center">🚀 Turning Caffeine into Code & Exploits</h3>
+</div>
+
 <p align="center">
-  <img src="./banner.gif" alt="Profile Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366FF&center=true&vCenter=true&width=600&lines=Security+Researcher+🕵️‍♂️;Cybersecurity+Enthusiast+🔐;Blockchain+Explorer+⛓️;Hackathon+Player+🏆;Open+Source+Contributor+📦" alt="Typing SVG" />
+  </a>
 </p>
 
-# 👋 Hi there, I'm Manas!  
+<div align="center">
+  <b><i>"In a world of fragile codes and shifting trust, a true hacker involves not just breaking, but building resilience from the chaos."</i></b>
+</div>
+<br>
 
-💻 Computer Science Student | 🔐 Cybersecurity Enthusiast | 🌐 Blockchain Explorer | 🎯 Hackathon Player  
+<div align="center">
 
-I love building projects, participating in hackathons, and contributing to open source! 🚀  
+<a href="https://www.linkedin.com/in/manas-patekar-b586932b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/channel/UCmXpWR4u32RZif49soiXdOQ">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manas-patekar-b586932b0/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCmXpWR4u32RZif49soiXdOQ)
+### 🛠️ Arsenals & Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,html,css,linux,kalilinux,git,github,docker,vscode,vim&perline=14&theme=dark" alt="Tech Stack by SkillIcons" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Jack_of_all_trades-282C34?style=flat&logo=tryhackme&logoColor=white&labelColor=88CC14" />
+  <img src="https://img.shields.io/badge/PortSwigger-Apprentice-FF6633?style=flat&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/PicoCTF-Player-884499?style=flat&logo=ctftime&logoColor=white" />
+</div>
 
 ---
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe-08852D?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PortSwigger-F05A28?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PicoCTF-800080?style=for-the-badge&logo=ctftime&logoColor=white" />
-</p>
+### 📊 Github Analytics
+
+<div align="center">
+  <!-- Top Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManasPatekar&theme=tokyonight" alt="GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <!-- Commits & Languages -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManasPatekar&theme=tokyonight" alt="GitHub Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManasPatekar&theme=tokyonight" alt="Productive Time" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasPatekar&theme=tokyonight&show_icons=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=ManasPatekar&theme=tokyonight&border_radius=5" height="180" />
-</p>
+### 🏆 Languages & Contributions
+
+<!-- Replaced broken Trophies with reliable Top Languages Chart -->
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManasPatekar&theme=tokyonight" alt="Repos per Language" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManasPatekar&theme=tokyonight" alt="Most Committed Language" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasPatekar&theme=tokyo-night&hide_border=true&area=true&color=3366FF" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManasPatekar&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasPatekar&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## ✍️ Signature Quote
-<p align="center">
-  <b><i>"In a world of fragile codes and shifting trust, a true hacker is not just one who breaks, but one who learns, secures, and rebuilds — turning chaos into resilience and knowledge into freedom."</i></b>
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ManasPatekar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <img src="./footer.png" width="100%" alt="Red Team Footer" style="border-radius: 10px;" />
+</div>
