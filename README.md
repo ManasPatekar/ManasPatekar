@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./banner.gif" alt="Profile Animation" width="60%" style="border-radius: 10px; margin-top: -30px;" />
+  <img src="./macros_emblem.png" alt="Macros Cyber Emblem" width="60%" style="border-radius: 10px; margin-top: -30px;" />
 </div>
 
 <div align="center">
@@ -119,10 +119,8 @@ class Macros(Hacker, FullStackDev):
   </table>
 
   <br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManasPatekar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Macros Trophies" />
-  </a>
+  
+  <img src="./system_breach.svg" alt="System Breach Terminal" width="100%" />
 
   <br><br>
 
