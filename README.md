@@ -132,7 +132,7 @@ class Macros(Hacker, FullStackDev):
 ---
 
 <div align="center">
-  <img src="./new_footer.png" width="25%" alt="Cyberpunk Footer" style="border-radius: 10px;" />
+  <img src="./banner.gif" width="25%" alt="Cyberpunk Footer" style="border-radius: 10px;" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=stay%20based&fontSize=20&animation=twinkling" width="100%" alt="Footer" />
