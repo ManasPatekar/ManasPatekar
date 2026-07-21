@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=main+character+energy+💅;hacking+the+mainframe+💀;freelance+hustler+💼;web+%26+app+creator+📱;cybersecurity+rizz+god+🔐;aura+level+over+9000+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=main+character+energy;hacking+the+mainframe;freelance+hustler;web+%26+app+creator;cybersecurity+rizz+god;aura+level+over+9000" alt="Typing SVG" />
   </a>
 </p>
 
@@ -120,11 +120,9 @@ class Macros(Hacker, FullStackDev):
 
   <br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasPatekar/ManasPatekar/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasPatekar/ManasPatekar/output/github-snake-dark.svg">
-    <img alt="Matrix snake animation" src="https://raw.githubusercontent.com/ManasPatekar/ManasPatekar/output/github-snake-dark.svg">
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ManasPatekar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Macros Trophies" />
+  </a>
 
   <br><br>
 
