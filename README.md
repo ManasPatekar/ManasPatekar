@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ManasPatekar/ManasPatekar/main/macros_emblem.png" alt="Macros Cyber Emblem" width="60%" style="border-radius: 10px; margin-top: -30px;" />
+  <img src="https://raw.githubusercontent.com/ManasPatekar/ManasPatekar/main/macros_emblem.png" alt="Macros Cyber Emblem" width="35%" style="border-radius: 10px; margin-top: -30px;" />
 </div>
 
 <div align="center">
