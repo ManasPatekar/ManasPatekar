@@ -51,7 +51,7 @@
     <text x="10" y="130" class="line l5">    [!] Firewall level 2: BYPASSED</text>
     <text x="10" y="150" class="line l6">    [!] Firewall level 3: CRACKED</text>
     <text x="10" y="170" class="line l7">[+] Accessing secure enclave...</text>
-    <text x="10" y="190" class="line l8">[+] Decrypting payload [████████████████████] 100%</text>
+    <text x="10" y="190" class="line l8">[+] Decrypting payload [####################] 100%</text>
     <text x="10" y="230" class="line l9" style="fill:#ff5f56; font-weight:bold;">>>> SYSTEM COMPROMISED. MACROS HAS ROOT ACCESS. <<<</text>
     <text x="10" y="260" class="line l9">root@macros-box:~# <tspan class="blink">_</tspan></text>
   </g>
