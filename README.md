@@ -120,7 +120,7 @@ class Macros(Hacker, FullStackDev):
 
   <br>
   
-  <img src="https://cdn.jsdelivr.net/gh/ManasPatekar/ManasPatekar@main/system_breach.svg" alt="System Breach Terminal" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/ManasPatekar/ManasPatekar@main/system_breach.svg?v=2" alt="System Breach Terminal" width="100%" />
 
   <br><br>
 

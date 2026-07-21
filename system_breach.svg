@@ -1,58 +1,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
-  <style>
-    .terminal { font-family: 'Courier New', Courier, monospace; fill: #39ff14; font-size: 14px; }
-    .bg { fill: #0d1117; stroke: #39ff14; stroke-width: 2px; rx: 5px; }
-    .header { fill: #39ff14; font-size: 12px; font-weight: bold; }
-    .top-bar { fill: #1a1a1a; }
-    
-    /* Animations */
-    .line { opacity: 0; }
-    .l1 { animation: t1 10s infinite; }
-    .l2 { animation: t2 10s infinite; }
-    .l3 { animation: t3 10s infinite; }
-    .l4 { animation: t4 10s infinite; }
-    .l5 { animation: t5 10s infinite; }
-    .l6 { animation: t6 10s infinite; }
-    .l7 { animation: t7 10s infinite; }
-    .l8 { animation: t8 10s infinite; }
-    .l9 { animation: t9 10s infinite; }
-    .blink { animation: blinker 1s linear infinite; }
-    
-    @keyframes t1 { 0%, 95% { opacity: 0; } 5%, 90% { opacity: 1; } }
-    @keyframes t2 { 0%, 12%, 95% { opacity: 0; } 15%, 90% { opacity: 1; } }
-    @keyframes t3 { 0%, 20%, 95% { opacity: 0; } 23%, 90% { opacity: 1; } }
-    @keyframes t4 { 0%, 22%, 95% { opacity: 0; } 25%, 90% { opacity: 1; } }
-    @keyframes t5 { 0%, 24%, 95% { opacity: 0; } 27%, 90% { opacity: 1; } }
-    @keyframes t6 { 0%, 26%, 95% { opacity: 0; } 29%, 90% { opacity: 1; } }
-    @keyframes t7 { 0%, 35%, 95% { opacity: 0; } 38%, 90% { opacity: 1; } }
-    @keyframes t8 { 0%, 40%, 95% { opacity: 0; } 43%, 90% { opacity: 1; } }
-    @keyframes t9 { 0%, 50%, 95% { opacity: 0; } 53%, 90% { opacity: 1; } }
-    
-    @keyframes blinker {
-      50% { opacity: 0; }
-    }
-  </style>
 
   <!-- Window Background -->
-  <rect width="800" height="300" class="bg" />
-  <rect width="800" height="25" class="top-bar" rx="5" />
+  <rect width="800" height="300" fill="#0d1117" stroke="#39ff14" stroke-width="2" rx="5" />
+  <rect width="800" height="25" fill="#1a1a1a" rx="5" />
   
-  <text x="10" y="17" class="header">MACROS_TERMINAL // SYSTEM_BREACH.EXE</text>
+  <!-- Title Bar -->
+  <text x="10" y="17" font-family="Courier New, Courier, monospace" font-size="12" font-weight="bold" fill="#39ff14">MACROS_TERMINAL // SYSTEM_BREACH.EXE</text>
   <circle cx="780" cy="12.5" r="5" fill="#ff5f56" />
   <circle cx="760" cy="12.5" r="5" fill="#ffbd2e" />
   <circle cx="740" cy="12.5" r="5" fill="#27c93f" />
 
-  <!-- Terminal Text -->
-  <g class="terminal">
-    <text x="10" y="50" class="line l1">root@macros-box:~$ ./breach_mainframe.sh --target="GLOBAL_DB"</text>
-    <text x="10" y="70" class="line l2">[+] Initializing connection to 192.168.0.1...</text>
-    <text x="10" y="90" class="line l3">[+] Connection established. Bypassing firewall...</text>
-    <text x="10" y="110" class="line l4">    [!] Firewall level 1: BYPASSED</text>
-    <text x="10" y="130" class="line l5">    [!] Firewall level 2: BYPASSED</text>
-    <text x="10" y="150" class="line l6">    [!] Firewall level 3: CRACKED</text>
-    <text x="10" y="170" class="line l7">[+] Accessing secure enclave...</text>
-    <text x="10" y="190" class="line l8">[+] Decrypting payload [####################] 100%</text>
-    <text x="10" y="230" class="line l9" style="fill:#ff5f56; font-weight:bold;">>>> SYSTEM COMPROMISED. MACROS HAS ROOT ACCESS. <<<</text>
-    <text x="10" y="260" class="line l9">root@macros-box:~# <tspan class="blink">_</tspan></text>
-  </g>
+  <!-- Line 1 -->
+  <text x="10" y="50" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    root@macros-box:~$ ./breach_mainframe.sh --target="GLOBAL_DB"
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.06;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 2 -->
+  <text x="10" y="70" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    [+] Initializing connection to 192.168.0.1...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.12;0.13;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 3 -->
+  <text x="10" y="90" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    [+] Connection established. Bypassing firewall...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.20;0.21;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 4 -->
+  <text x="10" y="110" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+        [!] Firewall level 1: BYPASSED
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.26;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 5 -->
+  <text x="10" y="130" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+        [!] Firewall level 2: BYPASSED
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.30;0.31;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 6 -->
+  <text x="10" y="150" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+        [!] Firewall level 3: CRACKED
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.36;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 7 -->
+  <text x="10" y="170" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    [+] Accessing secure enclave...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.43;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 8 -->
+  <text x="10" y="190" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    [+] Decrypting payload [####################] 100%
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.51;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 9 - Red alert -->
+  <text x="10" y="230" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#ff5f56" opacity="0">
+    &gt;&gt;&gt; SYSTEM COMPROMISED. MACROS HAS ROOT ACCESS. &lt;&lt;&lt;
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.60;0.61;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 10 - Blinking cursor -->
+  <text x="10" y="260" font-family="Courier New, Courier, monospace" font-size="14" fill="#39ff14" opacity="0">
+    root@macros-box:~#
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.60;0.61;0.90;0.95" dur="12s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Blinking cursor block -->
+  <rect x="168" y="248" width="9" height="16" fill="#39ff14" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0;1;0" keyTimes="0;0.60;0.62;0.66;0.70;0.74;0.78;0.82;0.86;0.88;0.89;0.95" dur="12s" repeatCount="indefinite" />
+  </rect>
+
 </svg>
